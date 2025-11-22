@@ -39,6 +39,8 @@ After conducting the test for several weeks, the company now needs to determine 
 After comparing the CTR of all the variations to that of the control group, it is observed that the CTR of all variations are greater than the control group. 
 This proves that the redesign of the website is a successful approach to boost CTR and, in turn, the number of people who join the site.
 
+![CTR Groupwise](assets/ctr_groupwise.png)
+
 Exploratory analysis indicated that **Variation B (CTR = 12%)** has the highest CTR compared to the control group (10.71%), **Variation A (11.25%)**, and **Variation C (11.37%)**. 
 To see if the differences were statistically significant, a Chi-square test of independence and two-proportion Z-tests were executed. 
 The analysis indicated that Variation B alone had a statistically significant increase at the 0.05 level, meaning its improvement is not likely to occur by chance.
