@@ -6,8 +6,8 @@ This analysis conducts an A/B testing to find out whether the redesign of landin
 Using Python for data cleaning, EDA and hypothesis testing through a Chi-Square and Two Proportion Z-Tests, it is observed that all 3 variations increase 
 the CTR compared to control group (CTR = 10.71%). 
 
-However variation B with CTR of **12.00%** is statistically significant at 0.05 level of significance among all the variations. 
-Therefore It is suggested that the company should add new landing page but exclude new images in it.
+However **Variation B** with CTR of **12.00%** is statistically significant at 0.05 level of significance among all the variations. 
+Therefore It is suggested that the company should **add new landing page but exclude new images** in it.
 
 ## Business Problem:
 
