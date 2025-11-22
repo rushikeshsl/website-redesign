@@ -15,6 +15,8 @@ An early-stage startup in Germany aims to improve user acquisition by increasing
 The design team has implemented a redesigned version of the page, expecting it to encourage more users to click through and join the platform. 
 After conducting the test for several weeks, the company now needs to determine whether the observed increase in CTR is a result of the new design’s effectiveness or merely due to random variation. The goal is to statistically validate whether the redesign has a significant positive impact on click-through rate before rolling it out permanently.
 
+![Landing Page Variants](.assets/groups.png)
+
 Goals:
   1) Analyze the conversion rates for each of the four groups: the new/old design of the landing page and the new/old pictures.
   2) Can the increases observed be explained by randomness? 
